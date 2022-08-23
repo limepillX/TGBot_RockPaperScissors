@@ -1,0 +1,1 @@
+{'RPS': {'fiodoryakovenko': 999999, 'avetrill': 0, 'ilya_brusku': 0, 'Giovanni_g1orgio': 1, 'JaneCardi': -1}}
